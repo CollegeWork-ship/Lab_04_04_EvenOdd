@@ -11,8 +11,4 @@ public class Main {
             System.out.println("Odd");
         }
     }
-
-    private static Object assertThat(int i) {
-        return null;
-    }
 }
